@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\Manejo Excpeciones\Manejo Excpeciones\bin\Debug\Manejo Excpeciones.exe.config
+C:\Users\eduar\source\repos\Manejo Excpeciones\Manejo Excpeciones\bin\Debug\Manejo Excpeciones.exe
+C:\Users\eduar\source\repos\Manejo Excpeciones\Manejo Excpeciones\bin\Debug\Manejo Excpeciones.pdb
+C:\Users\eduar\source\repos\Manejo Excpeciones\Manejo Excpeciones\obj\Debug\Manejo Excpeciones.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\Manejo Excpeciones\Manejo Excpeciones\obj\Debug\Manejo Excpeciones.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Manejo Excpeciones\Manejo Excpeciones\obj\Debug\Manejo Excpeciones.exe
+C:\Users\eduar\source\repos\Manejo Excpeciones\Manejo Excpeciones\obj\Debug\Manejo Excpeciones.pdb
